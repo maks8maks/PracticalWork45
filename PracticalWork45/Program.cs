@@ -12,6 +12,9 @@ namespace PracticalWork45
         {
             Console.WriteLine("Hello");
 
+            int a = 1;
+            Console.WriteLine("Hello");
+
         }
     }
 }
